@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SWE-Task/static/css/main.cdf3cd7f.css",
+    "main.js": "/SWE-Task/static/js/main.1084834a.js",
+    "static/media/bgc.jpg": "/SWE-Task/static/media/bgc.f707267c3874ab452356.jpg",
+    "static/media/universe.jpg": "/SWE-Task/static/media/universe.8ec97d26ff0797d8bc17.jpg",
+    "index.html": "/SWE-Task/index.html",
+    "main.cdf3cd7f.css.map": "/SWE-Task/static/css/main.cdf3cd7f.css.map",
+    "main.1084834a.js.map": "/SWE-Task/static/js/main.1084834a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdf3cd7f.css",
+    "static/js/main.1084834a.js"
+  ]
+}
