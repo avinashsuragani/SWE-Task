@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SWE-Task/static/css/main.4af6c303.css",
+    "main.css": "/SWE-Task/static/css/main.27d4f0d1.css",
     "main.js": "/SWE-Task/static/js/main.de19db47.js",
     "static/media/bgc.jpg": "/SWE-Task/static/media/bgc.f707267c3874ab452356.jpg",
     "static/media/dash1.jfif": "/SWE-Task/static/media/dash1.1ea74b5db3d80099ba37.jfif",
     "index.html": "/SWE-Task/index.html",
-    "main.4af6c303.css.map": "/SWE-Task/static/css/main.4af6c303.css.map",
+    "main.27d4f0d1.css.map": "/SWE-Task/static/css/main.27d4f0d1.css.map",
     "main.de19db47.js.map": "/SWE-Task/static/js/main.de19db47.js.map"
   },
   "entrypoints": [
-    "static/css/main.4af6c303.css",
+    "static/css/main.27d4f0d1.css",
     "static/js/main.de19db47.js"
   ]
 }
